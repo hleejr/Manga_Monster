@@ -1,4 +1,3 @@
-# [MangaMonster Live Application](manga-moster.herokuapp.com)
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -29,14 +28,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/hleejr/hofAI">
+  <a href="https://github.com/hleejr/Manga_Monster">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Hall of Fame AI</h3>
+  <h3 align="center">Manga Monster</h3>
 
   <p align="center">
-    Database of major league sports players' statistics with hall of fame predictive analysis driven by machine-learning algorithms
+    Manga Monster is a database of comics from various regions and demographics, providing background information in a structured, browsable format
     <br />
     <a href="https://github.com/hleejr/hofAI"><strong>Explore the docs »</strong></a>
     <br />
@@ -71,19 +70,18 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-I have been obsessed with sports for about as long as I remember. Wanting to get into the sports data industry, creating this project was a fun way for me to combine my newfound data science skills with my lifelong love of sports.
+Anime, manga and other pieces of Asian culture have been very intriguing to me since I was a little kid. Since my earliest days, I have been reading my favorite foreign comics and watching my favorite animations for almost two decades now. I wanted to find a way to put the many different type of comics all in one place. This was the beginnning of the Manga Monster.
 
 ### Built With
 
 * Python
-* Pandas
 * Django
-* AWS Beanstalk
+* SQL
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Visit [hofAI](https://hofai.herokuapp.com) to view the website.
+Visit [Manga Monster](https://manga-monster.herokuapp.com) to view the website.
 
 <p align="center">
     <img src="images/screenshot.png" alt="Logo" >
