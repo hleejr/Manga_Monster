@@ -37,14 +37,14 @@
   <p align="center">
     Manga Monster is a database of comics from various regions and demographics, providing background information in a structured, browsable format
     <br />
-    <a href="https://github.com/hleejr/hofAI"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/hleejr/Manga_Monster"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/hleejr/hofAI">View Demo</a>
+    <a href="https://github.com/hleejr/Manga_Monster">View Demo</a>
     ·
-    <a href="https://github.com/hleejr/hofAI/issues">Report Bug</a>
+    <a href="https://github.com/hleejr/Manga_Monster/issues">Report Bug</a>
     ·
-    <a href="https://github.com/hleejr/hofAI/issues">Request Feature</a>
+    <a href="https://github.com/hleejr/Manga_Monster/issues">Request Feature</a>
   </p>
 </p>
 
@@ -87,18 +87,21 @@ Visit [Manga Monster](https://manga-monster.herokuapp.com) to view the website.
     <img src="images/screenshot.png" alt="Logo" >
 </p>
 
-The hall of fame predictions are currently driven by a supervised machine learning algorithm called the Random Tree Classifier
-
+You can create an account and login which will let you create Readlist, an easy way to store the comics you're most interested in
 <p align="center">
-    <img src="images/screenshot_tree.png" alt="Logo" >
+    <img src="images/screenshot_sign.png" alt="Logo" >
 </p>
-
-You can read more about the models used [here](https://hofai.herokuapp.com/models)!
+<p align="center">
+    <img src="images/screenshot_user.png" alt="Logo" >
+</p>
+<p align="center">
+    <img src="images/screenshot_list.png" alt="Logo" >
+</p>
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/hleejr/hofAI/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/hleejr/Manga_Monster/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -112,11 +115,11 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 <!-- Current Objectives -->
-## Current Objectives
+## Future Scope
 
 * Implement mobile styling
-* Add player data for sports other than football and basketball
-* Test various models and algorithms to see if there is a way to improve model prediction accuracy
+* Add search bars to enhance browsing experience
+* Sort comics by genre/region to create more uniformity
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
@@ -127,15 +130,15 @@ Contributions are what make the open source community such an amazing place to b
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/hleejr/hofAI.svg?style=for-the-badge
-[contributors-url]: https://github.com/hleejr/hofAI/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/hleejr/hofAI.svg?style=for-the-badge
-[forks-url]: https://github.com/hleejr/hofAI/network/members
-[stars-shield]: https://img.shields.io/github/stars/hleejr/hofAI.svg?style=for-the-badge
-[stars-url]: https://github.com/hleejr/hofAI/stargazers
-[issues-shield]: https://img.shields.io/github/issues/hleejr/hofAI.svg?style=for-the-badge
-[issues-url]: https://github.com/hleejr/hofAI/issues
-[license-shield]: https://img.shields.io/github/license/hleejr/hofAI.svg?style=for-the-badge
-[license-url]: https://github.com/hleejr/hofAI/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/hleejr/Manga_Monster.svg?style=for-the-badge
+[contributors-url]: https://github.com/hleejr/Manga_Monster/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/hleejr/Manga_Monster.svg?style=for-the-badge
+[forks-url]: https://github.com/hleejr/Manga_Monster/network/members
+[stars-shield]: https://img.shields.io/github/stars/hleejr/Manga_Monster.svg?style=for-the-badge
+[stars-url]: https://github.com/hleejr/Manga_Monster/stargazers
+[issues-shield]: https://img.shields.io/github/issues/hleejr/Manga_Monster.svg?style=for-the-badge
+[issues-url]: https://github.com/hleejr/Manga_Monster/issues
+[license-shield]: https://img.shields.io/github/license/hleejr/Manga_Monster.svg?style=for-the-badge
+[license-url]: https://github.com/hleejr/Manga_Monster/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/henry-bowe-jr-31498916a/
